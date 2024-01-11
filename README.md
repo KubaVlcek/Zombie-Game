@@ -54,4 +54,4 @@ https://youtu.be/OywFwu_IPgw
 Brácha
 
 # Zdroje
-Epic Games Marketplace , Youtube návody , Quixel Bridge (assety, materiály, particles)
+Epic Games Marketplace , Youtube návody(https://www.youtube.com/@SmartPoly ,https://www.youtube.com/@pwnisher ,https://www.youtube.com/@UnrealSensei) , Quixel Bridge (assety, materiály, particles)
